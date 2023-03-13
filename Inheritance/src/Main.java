@@ -42,12 +42,12 @@ public class Main {
         e6.setFirstName("Mike");
         e6.setLastName("Davenport");
         e6.setSSN("666-66-6666");
-        e6.setBaseSalary(2500);
+        e6.setBaseSalary(95000);
         System.out.println(e6.getFirstName() + ", " + e6.getLastName() + ", " + e6.getSSN() + ", " + e6.getBaseSalary());
 
         CommissionEmployee e7 = new CommissionEmployee();
-        e7.setFirstName("Nicole");
-        e7.setLastName("Dior");
+        e7.setFirstName("Mahnaz");
+        e7.setLastName("Vaziri");
         e7.setSSN("777-77-7777");
         e7.setCommissionRate(22);
         e7.setGrossSales(40000);
